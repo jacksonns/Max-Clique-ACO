@@ -1,0 +1,8 @@
+{
+    "ants_num": 30,
+    "iterations": 100,
+    "evaporation": 0.8,
+    "alpha": 1,
+    "file_path": "datasets/p_hat700-2.clq.txt",
+    "results_path": "results/results.txt"
+}
